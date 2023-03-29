@@ -4,6 +4,24 @@
     --dblue:#07689F;
     --lblue:#A2D5F2;
     --orange:#FF7E67;
+    --mblue:#2ab1ff;
   }
 
+.forecast{
+  margin-left: 30px;
+}
   
+.forecastcurrent{
+  background-color: var(--mblue);
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.forecastfuture{
+  background-color: var(--orange);
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
