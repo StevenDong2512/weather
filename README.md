@@ -8,7 +8,7 @@ This app also allows the user to check the weather forecast from their previous 
 
 ## Installation
 
-Deployed app: 
+Deployed app: https://stevendong2512.github.io/weather/
 
 VS code, live server JavaScript, jQuery, dayJS, bootstrap and openweather api. 
 
