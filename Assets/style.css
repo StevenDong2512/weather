@@ -21,7 +21,13 @@
 
 .forecastfuture{
   background-color: var(--orange);
-  margin-right: 10px;
-  margin-top: 10px;
+  margin-right: 12px;
+  margin-top: 8px;
+  margin-bottom: 10px;
 }
 
+h2, h3{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: var(--white);
+}

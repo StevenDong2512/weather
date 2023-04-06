@@ -63,7 +63,7 @@ p{
     text-align: center;
     display: inline-block;
     padding: 5px 10px;
-    margin: 0;
+    margin: 0px;
     text-decoration: none;
     font-size: 25px;
     border-radius: 3px;
@@ -74,7 +74,23 @@ p{
     transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
   }
 
-  .btn:hover {
+
+  .btnHistory {
+    align-items: center;
+    text-align: center;
+    margin: 0px;
+    margin-top: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 3px;
+    border: 1px solid transparent;
+    outline: none;
+    color: var(--white);
+    background-color: var(--dblue);
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+  }
+
+  .btn:hover, .btnHistory:hover {
     background-color: var(--orange);
   }
 
